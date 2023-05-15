@@ -1,0 +1,27 @@
+.div-1, .div-2, .div-3{
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    text-align: center;
+}
+
+.div-1{
+    background-color: red;
+}
+
+.div-2{
+    background-color: gold;
+}
+
+.div-3{
+    background-color: forestgreen;
+}
+
+.color-change{
+    background-color: aquamarine;
+}
+
+.subsection.header {
+    color: red;
+  }
+

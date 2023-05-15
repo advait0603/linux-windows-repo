@@ -1,0 +1,23 @@
+body{
+    background-color: #800000;
+}
+
+.divlist{
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    line-height: 1.6;
+    color: wheat;
+    list-style-position: inside;
+}
+
+.heading1{
+    color: gold;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: wheat;
+    text-align: center;
+}

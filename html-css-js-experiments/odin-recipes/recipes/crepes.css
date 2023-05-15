@@ -1,0 +1,25 @@
+body{
+    background-color: #800000;
+}
+
+h1{
+    color: gold;
+    text-align: center;
+}
+
+p, ul, ol{
+    color: wheat;
+}
+
+ol, ul{
+    line-height: 1.6;
+}
+
+img{
+    width: auto;
+    height: 250px;
+}
+
+.divimg{
+    text-align: center;
+}
