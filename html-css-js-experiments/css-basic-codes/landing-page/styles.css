@@ -1,26 +1,40 @@
 .hero{
-    background-color: #1f2937;    
+    background-color: #1f2937;
 }
 
-.hero-text{
-    height: 20px;
-    border: 4px solid white;
+.hero-w-heading{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
 }
+
+
 
 .hero-w-img{
     display: flex;
     height: 400px;
 }
 
-.hero-w-img .img{
-    height: 200px;
-    width: 200px;
+.hero-w-img img{
+    height: 300px;
+    width: 300px;
+    margin-right: 100px;
+    padding-top: 50px;
 }
 
-.hero .hero-w-img{
-    flex: 1;
+body button{
+    text-align: center;
 }
 
-.hero p{
-    border: 4px solid white;
+
+.infodiv{
+    display: flex;
+    justify-content: space-between;   
+}
+
+.infoBox{
+    border: 5px solid blue;
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
 }
