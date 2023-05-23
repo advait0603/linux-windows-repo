@@ -40,12 +40,16 @@
     background: plum;
     border: 4px solid indigo;
     display: flex;
-  }
+    justify-content: space-between;
+    align-items: center;
+}
   
-.item div{
+.item{
     width: 60px;
     height: 60px;
     border: 4px solid darkslategray;
     background: skyblue;
-    flex: 1;
+    /*flex:1;*/
+    
+    
 }
